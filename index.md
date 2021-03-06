@@ -1,2 +1,1 @@
-#Mejores series del 2020
-\*jeiwoj
+# Las mejores series de 2021
