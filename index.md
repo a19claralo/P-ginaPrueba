@@ -1,4 +1,6 @@
-# Las mejores series de 2021
+# Las mejores series de 2020
+
+[id]: https://media.revistagq.com/photos/5fd9f5dbd12d1a24482297cb/master/pass/mejores-series-2020.jpg "Gambito de dama"
 
 - ### Veneno (Atresplayer premium)
 
