@@ -10,6 +10,10 @@
 
   La serie es una mirada al conflicto de ETA en el País Vasco desde la perspectiva de dos mujeres, dos amigas y madres, que se ven envueltas en la violencia y el dolor desde posiciones muy distintas. Una, esposa de una víctima; la otra, madre del verdugo. Es una adaptación todo lo fiel posible a la novela (con lo bueno y lo malo que eso pueda conllevar) y nos sumerge en una historia que aspira a abrir nuevas conversaciones sobre el conflicto.
 
+  > Olviden las polémicas. Dejen de lado aquella lona y la discusión sobre si era o no equidistante, y no se pierdan Patria. Su primer episodio es uno de los pilotos más emocionantes y redondos que ha dado la ficción española reciente.
+  >
+  > > El Español
+
 - ### Gambito de dama (Netflix)
 
   Cuenta la historia de una niña huérfana que encuentra en este juego una escapatoria a su vida, y también un lugar donde canalizar su increíble inteligencia y habilidad con las matemáticas. Así va creciendo hasta convertirse en una joven prodigiosa, pero también atormentada por su pasado y sus adicciones.
