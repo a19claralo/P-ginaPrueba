@@ -10,9 +10,7 @@
 
   La serie es una mirada al conflicto de ETA en el País Vasco desde la perspectiva de dos mujeres, dos amigas y madres, que se ven envueltas en la violencia y el dolor desde posiciones muy distintas. Una, esposa de una víctima; la otra, madre del verdugo. Es una adaptación todo lo fiel posible a la novela (con lo bueno y lo malo que eso pueda conllevar) y nos sumerge en una historia que aspira a abrir nuevas conversaciones sobre el conflicto.
 
-  > Olviden las polémicas. Dejen de lado aquella lona y la discusión sobre si era o no equidistante, y no se pierdan Patria. Su primer episodio es uno de los pilotos más emocionantes y redondos que ha dado la ficción española reciente.
-  >
-  > > El Español
+  > Olviden las polémicas. Dejen de lado aquella lona y la discusión sobre si era o no equidistante, y no se pierdan Patria. Su primer episodio es uno de los pilotos más emocionantes y redondos que ha dado la ficción española reciente. -El Español
 
 - ### Gambito de dama (Netflix)
 
@@ -20,3 +18,11 @@
 
 - ### Unorthodox (Netflix)
   Esta serie creada por Anna Winger y Alexa Karolinski es una defensa de la libertad cuando la religión y las tradiciones te impiden vivir tu vida. Se centra en un caso real de una joven de 19 años que decide abandonar a su marido y su comunidad judía jasídica de Brooklyn para buscar su propio destino en Berlín. Allí se deshará de todas esas ataduras que la apresaban de una forma sensible y liberadora.
+
+## Código
+
+  <?php
+  $author = "John Doe";
+  echo "<h1>Hello World!</h1> 
+  <p>This dynamic web page was created by $author.</p>";
+  ?>
