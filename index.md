@@ -22,8 +22,6 @@
 ## Código
 
 // Some comments
-<?php
-$author = "John Doe";
-echo "<h1>Hello World!</h1>
-<p>This dynamic web page was created by $author.</p>";
-?>
+line 1 of code
+line 2 of code
+line 3 of code
