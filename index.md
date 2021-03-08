@@ -28,3 +28,7 @@
   <p>This dynamic web page was created by $author.</p>";
 ?>
 ```
+
+## Links
+
+Referencias [aquí](./referencias.md)
